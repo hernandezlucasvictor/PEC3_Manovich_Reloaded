@@ -1,39 +1,64 @@
-# PEC3: Visionando el futuro con las gafas de Manovich 
+# PEC3: Las Gafas de Manovich
 
-### Recurso de aprendizaje de Cultura Digital 
+**Autor:** Víctor Hernández Lucas  
+**Título del trabajo:** Hibridación en la era digital: Microsoft Flight Simulator y Google Lens
 
+----------
 
-Autor: 
+## Introducción
 
+En su libro _El software toma el mando_, Lev Manovich describe cómo la hibridación da lugar a nuevas experiencias digitales al combinar elementos de diferentes medios y tecnologías. Este ensayo explora dos casos recientes de hibridación tecnológica que podrían formar parte de una versión ampliada del libro: **Microsoft Flight Simulator** y **Google Lens**. Ambos ejemplos muestran cómo el software cultural evoluciona para ofrecer herramientas innovadoras y funcionales.
 
-Fecha: 
+----------
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+## Ejemplo 1: Microsoft Flight Simulator
 
+### Descripción
 
+Microsoft Flight Simulator es un simulador de vuelo que combina datos de mapeo global, condiciones climáticas en tiempo real y tráfico aéreo actual para crear una experiencia inmersiva sin precedentes.
 
-## Planteamiento
+### Hibridación tecnológica
 
+1.  **Mapeo global**: Usa datos de **Bing Maps** para modelar un mundo tridimensional con alta precisión.
+2.  **Clima en tiempo real**: Integra datos meteorológicos para recrear condiciones reales.
+3.  **Tráfico aéreo**: Representa vuelos reales en tiempo real.
+4.  **Azure AI**: Emplea inteligencia artificial para mejorar detalles visuales y dinámicos.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Contenido multimedia
 
+-   [Sitio oficial de Microsoft Flight Simulator](https://www.flightsimulator.com/)
+-   [Trailer oficial](https://www.youtube.com/watch?v=TYqJALPVn0Y)
 
-## Re-descubriendo la hibridacion: Caso 1
+### Impacto
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Microsoft Flight Simulator trasciende el entretenimiento, convirtiéndose en una herramienta educativa y cultural. Este ejemplo demuestra cómo la hibridación no solo refleja la realidad, sino que la amplifica.
 
+----------
 
+## Ejemplo 2: Google Lens
 
-## Re-descubriendo la hibridacion: Caso 2
+### Descripción
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Google Lens combina la cámara de los teléfonos inteligentes con inteligencia artificial para analizar el entorno, traducir texto y buscar información visual en tiempo real.
 
+### Hibridación tecnológica
 
-### Referencias y Bibliografía
+1.  **Reconocimiento visual**: Identifica objetos y escenas con visión por computadora.
+2.  **Traducción en tiempo real**: Superpone traducciones mediante realidad aumentada.
+3.  **Búsqueda contextual**: Ofrece información relevante conectando con los servicios de búsqueda de Google.
+4.  **Procesamiento en la nube**: Utiliza aprendizaje automático para procesar datos en tiempo real.
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+### Contenido multimedia
 
+-   [Sitio oficial de Google Lens](https://lens.google/)
+-   [Video de demostración](https://www.youtube.com/watch?v=LP8uZZV3-vQ)
 
-----
+### Impacto
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+Google Lens facilita el acceso al conocimiento de manera intuitiva, revolucionando cómo interactuamos con el entorno a través de la tecnología híbrida.
+
+----------
+
+## Conclusión
+
+Estos dos casos ilustran cómo la hibridación transforma los medios digitales y redefine nuestras interacciones con la tecnología. Ambos ejemplos amplían las capacidades humanas al integrar datos, software e inteligencia artificial, marcando un paso hacia un futuro más conectado e innovador.
