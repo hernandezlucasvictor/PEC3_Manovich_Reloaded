@@ -1,7 +1,7 @@
 
 # PEC3: Las Gafas de Manovich
 
-**Autor:** Pablo Hernández Lucas  
+**Autor:** Víctor Hernández Lucas  
 **Título del trabajo:** Hibridación en la era digital: Microsoft Flight Simulator y Google Lens
 
 ----------
