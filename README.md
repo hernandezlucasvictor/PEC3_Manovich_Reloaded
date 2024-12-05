@@ -1,6 +1,7 @@
-## PEC3: Las Gafas de Manovich
 
-**Autor:** Víctor Hernández Lucas  
+# PEC3: Las Gafas de Manovich
+
+**Autor:** Pablo Hernández Lucas  
 **Título del trabajo:** Hibridación en la era digital: Microsoft Flight Simulator y Google Lens
 
 ----------
@@ -66,3 +67,13 @@ En la imagen anterior, Google Lens está analizando un objeto en tiempo real, of
 ## Conclusión
 
 Estos dos casos, Microsoft Flight Simulator y Google Lens, representan cómo la hibridación tecnológica redefine nuestra relación con los medios digitales. Ambos ejemplos integran datos en tiempo real, inteligencia artificial y software cultural para ofrecer experiencias inmersivas y prácticas. Como señala Manovich, la hibridación no solo transforma los medios existentes, sino que también crea nuevas herramientas que amplían nuestras capacidades y posibilidades. En un mundo cada vez más interconectado, estas tecnologías son solo el comienzo de una revolución híbrida que cambiará nuestra forma de vivir y aprender.
+
+----------
+
+## Referencias
+
+1.  Manovich, Lev. _El software toma el mando_. Editorial UOC, 2013.
+2.  Microsoft Flight Simulator. Sitio oficial: [https://www.flightsimulator.com/](https://www.flightsimulator.com/).
+3.  Google Lens. Sitio oficial: [https://lens.google/](https://lens.google/).
+4.  "Microsoft Flight Simulator Trailer". YouTube: [https://www.youtube.com/watch?v=TYqJALPVn0Y](https://www.youtube.com/watch?v=TYqJALPVn0Y).
+5.  "Google Lens Overview". YouTube: [https://www.youtube.com/watch?v=LP8uZZV3-vQ](https://www.youtube.com/watch?v=LP8uZZV3-vQ).
